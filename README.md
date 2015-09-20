@@ -1,6 +1,6 @@
 # homebrew-tools
 
-This project contains homebrew forumulas for my opensource tools.
+This project contains [homebrew](http://brew.sh/) forumulas for my opensource tools.
 
 # usage
 
@@ -15,6 +15,22 @@ Then to install one of the recipes, in this case coffer.
 ```
 brew install coffer
 ```
+
+# forumulas
+
+The following tools can be installed.
+
+```
+brew install coffer
+brew install wolfeidau/tools/github-release
+```
+
+Coming soon.
+
+```
+brew install wolfeidau/tools/yaml2json
+```
+
 
 # license
 
